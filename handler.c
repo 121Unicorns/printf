@@ -5,6 +5,7 @@
 * @list: List of arguments
 * Return: Total size of arguments with the total size of the base string
 **/
+
 int handler(const char *str, va_list list)
 {
 int size, i, aux;
