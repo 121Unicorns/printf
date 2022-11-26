@@ -5,6 +5,7 @@
 *
 * Return: Length of the numbers in binary
 **/
+
 int print_binary(va_list list)
 {
 char *p_buff;
